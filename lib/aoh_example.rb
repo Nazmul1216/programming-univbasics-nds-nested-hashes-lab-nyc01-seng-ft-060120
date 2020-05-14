@@ -9,12 +9,12 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
-  p nests_of_hashes=[
-      DON_G,
-      JOELLE_VD,
-      PAT_M,
-      KATE_G,
-      BRUCE_G
+   nests_of_hashes=[
+     p DON_G,
+     p JOELLE_VD,
+     p PAT_M,
+     p KATE_G,
+     p BRUCE_G
     ]
   
     

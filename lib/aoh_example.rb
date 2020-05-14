@@ -16,6 +16,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
     ]
+    p nests_of_hashes
 end
 
 def literal_aoh
